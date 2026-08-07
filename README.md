@@ -55,36 +55,65 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 ---
-
 ### 🚀 Featured Projects
 
 #### [Pulseboard — Real-Time API Health & Uptime Monitoring](https://github.com/sherlock-hashed/Shakti)
+
 A background monitoring worker (`node-cron`) that runs configurable API health checks, tracks 24-hour rolling uptime and latency, and alerts users only on status changes (UP ↔ DOWN). Deployed on AWS EC2 with Docker Compose + Nginx, shipped through a 4-job GitHub Actions CI/CD pipeline running 49 automated unit/integration tests.
+
 🔗 [Live Demo](https://shakti-liard.vercel.app)
+
 `React` `Node.js` `Express.js` `MongoDB` `AWS` `Docker` `Nginx` `GitHub Actions` `Jest`
 
+---
+
 #### [High-Performance HTTP Caching Proxy Server](https://github.com/sherlock-hashed/Kshama)
+
 An in-memory HTTP cache built on JavaScript Maps with O(1) lookups, custom LRU eviction, and TTL expiration — cutting cached `GET` response times from ~440ms to near 0ms, while safely bypassing the cache for data-mutating requests. Dockerized with graceful shutdown handling for zero connection drops during scaling.
+
 `Node.js` `Express.js` `Docker` `Jest` `Commander`
 
+---
+
 #### [CSClash Arena (LunchBreak) — Real-Time 1v1 CS Quiz Engine](https://github.com/sherlock-hashed/LunchBreak)
+
 CSClash Arena is a real-time multiplayer CS quiz platform that enables students to compete in timed 1v1 battles across subjects like OS, DBMS, CN, and OOPs. Built with MERN, Socket.io, and Docker. Features dynamic ELO matchmaking, algorithmic bots, and global rankings and performance analytics to provide a secure, gamified placement preparation experience.
 
-
 🔗 [Live Demo](https://lunchbreak.onrender.com)
+
 `React` `TypeScript` `Node.js` `Express.js` `Socket.io` `MongoDB` `Firebase` `Docker`
 
+---
+
 #### [NeuroNest — AI-Powered Personalized Learning Platform](https://github.com/sherlock-hashed/NeuroNest)
+
 AI-powered personalized learning platform that generates adaptive courses, notes, quizzes, flashcards, and Q&A using Google Gemini AI. Built with Next.js, Neon PostgreSQL, Inngest, Clerk Authentication, and Tailwind CSS.
+
 🔗 [Live Demo](https://sherlockneuro-nest.vercel.app)
+
 `Next.js` `Gemini AI` `Neon PostgreSQL` `Inngest` `Clerk`
 
 ---
 
 ### 📂 Other Projects
 
-- **[Wanderlust](https://github.com/sherlock-hashed/Wanderlust)** — Full-stack travel listings app with Passport.js auth and Cloudinary-backed image uploads. `Node.js` `Express.js` `MongoDB` `EJS` · [Live Demo](https://wanderlust-five-alpha.vercel.app)
-- **[React Weather Dashboard](https://github.com/sherlock-hashed/WeatherMan)** — Mobile-first weather app with AQI, UV index, and an interactive Leaflet map. `React` `Vite` `Leaflet` `Recharts` · [Live Demo](https://weather-man-snowy.vercel.app)
+#### [Wanderlust](https://github.com/sherlock-hashed/Wanderlust)
+
+Full-stack travel listings app with Passport.js auth and Cloudinary-backed image uploads.
+
+🔗 [Live Demo](https://wanderlust-five-alpha.vercel.app)
+
+`Node.js` `Express.js` `MongoDB` `EJS` `Cloudinary` `Passport.js`
+
+---
+
+#### [React Weather Dashboard](https://github.com/sherlock-hashed/WeatherMan)
+
+Mobile-first weather app with AQI, UV index, and an interactive Leaflet map.
+
+🔗 [Live Demo](https://weather-man-snowy.vercel.app)
+
+`React` `Vite` `Leaflet` `Recharts`
 
 ---
 
