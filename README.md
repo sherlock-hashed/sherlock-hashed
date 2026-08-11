@@ -81,7 +81,7 @@ CSClash Arena is a real-time multiplayer CS quiz platform that enables students 
 
 🔗 [Live Demo](https://lunchbreak.onrender.com)
 
-`React` `TypeScript` `Node.js` `Express.js` `Socket.io` `MongoDB` `Firebase` `Docker`
+`React` `TypeScript` `Node.js` `Express.js` `Socket.io` `MongoDB` `Docker`
 
 ---
 
