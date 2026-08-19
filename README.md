@@ -95,41 +95,6 @@ AI-powered personalized learning platform that generates adaptive courses, notes
 
 ---
 
-### 📂 Other Projects
-
-#### [Wanderlust](https://github.com/sherlock-hashed/Wanderlust)
-
-Full-stack travel listings app with Passport.js auth and Cloudinary-backed image uploads.
-
-🔗 [Live Demo](https://wanderlust-five-alpha.vercel.app)
-
-`Node.js` `Express.js` `MongoDB` `EJS` `Cloudinary` `Passport.js`
-
----
-
-#### [React Weather Dashboard](https://github.com/sherlock-hashed/WeatherMan)
-
-Mobile-first weather app with AQI, UV index, and an interactive Leaflet map.
-
-🔗 [Live Demo](https://weather-man-snowy.vercel.app)
-
-`React` `Vite` `Leaflet` `Recharts`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sherlock-hashed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlock-hashed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherlock-hashed&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🎓 Coursework
 
 Data Structures & Algorithms · Operating Systems · DBMS · Computer Networking · Computer Organization
